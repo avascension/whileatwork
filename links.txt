@@ -2,3 +2,5 @@ http://www.steves-internet-guide.com/into-mqtt-python-client/
 https://blog.twitter.com/developer/en_us/a/2014/getting-started-with-automation-on-twitter.html
 https://help.twitter.com/en/rules-and-policies/twitter-automation
 https://twython.readthedocs.io/en/latest/usage/advanced_usage.html#updating-status-with-video
+https://www.raspberrypi.org/documentation/usage/camera/raspicam/raspivid.md
+https://picamera.readthedocs.io/en/release-1.13/
